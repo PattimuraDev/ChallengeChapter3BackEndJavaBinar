@@ -1,0 +1,69 @@
+Berikut Hasil Pengolahan Nilai: 
+Kelas: KelasA
+Nilai: 7, frekuensi: 7
+Nilai: 8, frekuensi: 5
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: KelasC
+Nilai: 7, frekuensi: 7
+Nilai: 8, frekuensi: 5
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: KelasB
+Nilai: 5, frekuensi: 1
+Nilai: 6, frekuensi: 1
+Nilai: 7, frekuensi: 8
+Nilai: 8, frekuensi: 5
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: KelasH
+Nilai: 7, frekuensi: 9
+Nilai: 8, frekuensi: 6
+Nilai: 9, frekuensi: 8
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: KelasE
+Nilai: 7, frekuensi: 7
+Nilai: 8, frekuensi: 5
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: KelasD
+Nilai: 7, frekuensi: 9
+Nilai: 8, frekuensi: 5
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 6
+Modus: 7
+
+Kelas: KelasG
+Nilai: 6, frekuensi: 1
+Nilai: 7, frekuensi: 8
+Nilai: 8, frekuensi: 6
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: KelasF
+Nilai: 7, frekuensi: 7
+Nilai: 8, frekuensi: 5
+Nilai: 9, frekuensi: 6
+Nilai: 10, frekuensi: 5
+Modus: 7
+
+Kelas: (semua kelas)
+Nilai: 5, frekuensi: 1
+Nilai: 6, frekuensi: 2
+Nilai: 7, frekuensi: 62
+Nilai: 8, frekuensi: 42
+Nilai: 9, frekuensi: 50
+Nilai: 10, frekuensi: 41
+Modus: 7
+
